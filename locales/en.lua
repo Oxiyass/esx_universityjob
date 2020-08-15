@@ -1,13 +1,4 @@
-Locales['fr'] = {
-	-- Cloakroom
-	['cloakroom'] = 'Vestiaire',
-	['citizen_wear'] = 'Tenue civile',
-	['journaliste_outfit'] = 'Tenue de stagiaire',
-	['journaliste_outfit_1'] = 'Tenue de reporter',
-	['journaliste_outfit_2'] = 'Tenue d\'enquêteur',
-	['journaliste_outfit_3'] = 'Tenue de directeur', 
-    ['no_outfit'] = 'Il n\'y a pas d\'uniforme à votre taille...',
-    ['open_cloackroom'] = 'Appuyez sur ~INPUT_CONTEXT~ pour vous changer',
+Locales['en'] = {
 	
 	-- Vehicles  
     ['vehicle_menu']             = 'Véhicule',
@@ -27,16 +18,6 @@ Locales['fr'] = {
 	['deposit_amount'] = 'montant du dépôt',
 	['money_withdraw'] = 'montant du retrait',
  
-    -- Vault  
-    ['get_weapon']               = 'Prendre Arme',
-    ['put_weapon']               = 'Déposer Arme',
-    ['get_weapon_menu']          = 'Coffre - Prendre Arme',
-    ['put_weapon_menu']          = 'Coffre - Déposer Arme',
-    ['get_object']               = 'Prendre Objet',
-    ['put_object']               = 'Déposer Objet',
-    ['vault']                    = 'Coffre',
-    ['open_vault']               = 'Appuyez sur ~INPUT_CONTEXT~ pour accéder au coffre',
-
     -- Boss Menu  
     ['take_company_money']       = 'Retirer argent société',
     ['deposit_money']            = 'Déposer argent',
@@ -50,9 +31,6 @@ Locales['fr'] = {
     ['quantity']                 = 'Quantité',
     ['inventory']                = 'Inventaire',
     ['unicorn_stock']            = 'Stock',
-
-    -- Misc 
-    ['map_blip']                 = 'Los Santos Informer',
 
     -- Billing Menu  
     ['billing']                  = 'Facture',

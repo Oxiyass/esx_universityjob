@@ -3,7 +3,7 @@ Config.DrawDistance               = 100.0
 Config.MarkerColor                = { r = 102, g = 0, b = 102 }
 Config.EnablePlayerManagement     = true
 Config.EnableVaultManagement      = false
-Config.EnableSocietyOwnedVehicles = true
+Config.EnableSocietyOwnedVehicles = false
 Config.EnableHelicopters          = false
 Config.EnableMoneyWash            = false
 Config.MaxInService               = -1
@@ -23,18 +23,8 @@ Config.Zones = {
         Type  = 1,
     },
 	
-	--[[Cloakrooms = {
-		Pos = { x = -1068.600, y = -241.440, z = 38.833},
-		Size = { x = 1.5, y = 1.5, z = 1.0 },
-        	Color = { r = 204, g = 204, b = 0 },
-		Type = 27,
-	},
-	--]]
+    VehicleDeleters = {
+	{ x = -1663.39, y = 78.18, z = 63.48},
 
-	VehicleDeleters = {
-		Pos  = { x = -1663.39, y = 78.18, z = 63.48},
-		Size = { x = 3.0, y = 3.0, z = 3.0 },
-        	Color = { r = 255, g = 0, b = 0 },		
-		Type = 1
-	},		
+    },		
 }
