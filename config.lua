@@ -2,7 +2,7 @@ Config                            = {}
 Config.DrawDistance               = 100.0
 Config.MarkerColor                = { r = 102, g = 0, b = 102 }
 Config.EnablePlayerManagement     = true
-Config.EnableVaultManagement      = true
+Config.EnableVaultManagement      = false
 Config.EnableSocietyOwnedVehicles = true
 Config.EnableHelicopters          = false
 Config.EnableMoneyWash            = false
